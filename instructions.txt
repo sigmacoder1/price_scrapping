@@ -1,0 +1,7 @@
+This is a python project in which beautiful soup library is used for web Scrapping. 
+In this, web scapping is used to get prices from various ecommerce websites. It can be
+modiefied for any other websites. Though, I have devoloped this only to work with amazon. Also, 
+Loops can be used to make it run again and again for a specific no of time. This is the first python project 
+that I worked for. It is very basic. I will update it as I will learn more about it. 
+Thanks for reading
+----------------------------------------------------
